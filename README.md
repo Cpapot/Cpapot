@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning C, C++
 
-- 📫 How to reach me: cpapot@student.42lyon.fr
-
-[Link To My 42Intra](https://profile.intra.42.fr/users/cpapot)
+https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/stats?cursusId=21&coalitionId=304
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cpapot)](https://github.com/anuraghazra/github-readme-stats&theme=blue-green)
 
