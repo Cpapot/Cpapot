@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C, C++
+
+<div align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/stats?cursusId=21&coalitionId=304" alt="cpapot's 42 stats" /></a></div>
+  
 <div align="center">
-[![cpapot's 42 stats](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/stats?cursusId=21&coalitionId=304)](https://github.com/JaeSeoKim/badge42)
-
-
 <h2 align="center">42 Common Core projects</h2>
 
   
