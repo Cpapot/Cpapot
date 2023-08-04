@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C, C++
-
+<div align="center">
 [![cpapot's 42 stats](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/stats?cursusId=21&coalitionId=304)](https://github.com/JaeSeoKim/badge42)
 
 
 <h2 align="center">42 Common Core projects</h2>
-<div align="center">
+
   
 | **[Libft][![cpapot's 42 Libft Score](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/project/2869336)](https://github.com/JaeSeoKim/badge42)** | **[Get_Next_Line][![cpapot's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/project/2881505)](https://github.com/JaeSeoKim/badge42)** | **[Ft_Printf][![cpapot's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/project/2888081)](https://github.com/JaeSeoKim/badge42)** | **[Fractol][![cpapot's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/project/2911297)](https://github.com/JaeSeoKim/badge42)** | **[MiniTalk][![cpapot's 42 minitalk Score](https://badge42.vercel.app/api/v2/clkwux3rg010808mmosps1ipv/project/2914440)](https://github.com/JaeSeoKim/badge42)** |
 | :---: | :---: | :---: | :---: | :---: |
